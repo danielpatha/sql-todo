@@ -1,1 +1,2 @@
 node_modules/
+# We need to ignore .env on here some how and then make it again in the AWS terminal.
